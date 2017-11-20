@@ -1,9 +1,11 @@
-= 技術文章のTips
-
 :toc: macro
 :toc-title: 目次
 :toclevels: 3
 
-## ですます・である調
+= 技術文章のTips
+
+toc::[]
+
+== ですます・である調
 
 
