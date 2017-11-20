@@ -1,7 +1,6 @@
 :toc: macro
 :toc-title: 目次
 :toclevels: 3
-:hardbreaks:
 
 = 技術文章のTips
 
